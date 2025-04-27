@@ -1,3 +1,5 @@
 Resolusi Nugie kurniawan 2025
 -fokus laravel dari amater ke advance
 -belajar javascript dari nol
+-ipk setidaknya minimal 3.8 di semester 2
+-ingin memulai belajar arduino
